@@ -13,8 +13,6 @@ dec_secs = 0
 # define helper function format that converts time
 # in tenths of seconds into formatted string A:BC.D
 def format(time):
-  #  hour = str(time / 3600)
-  #  print(hour)
     global dec_secs
     mins = str((time / 600) % 60)
     secs = (time / 10) % 60
