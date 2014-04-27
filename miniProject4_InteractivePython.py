@@ -1,4 +1,6 @@
-# Implementation of classic arcade game Pong
+# Mini-project # 4 - Implementation of classic arcade game Pong
+#-----------------------------------------
+# NB: This is a highly inefficient implementation of the game. I am certain this can be widely improved!
 # -------------------------------------------
 
 import simplegui
