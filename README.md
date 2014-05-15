@@ -1,4 +1,4 @@
-Python-Games
+Python Games
 ============
 
 Scripts for my dirty implementations of the various games assigned as projects in the Introduction to Interactive 
